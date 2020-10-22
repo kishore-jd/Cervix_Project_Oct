@@ -1,0 +1,52 @@
+CCS: Cervical Cancer Screeming
+Methods Of cervical cancer Screeming
+
+1)Hpv:Human papillomavirus (HPV)
+2)Papanicolaou (Pap) smear test
+3)visual inspection with acetic acid (VIA)
+
+T1:-Cancer First Stage
+T2:-cancer Medium Stage 
+T3:-Cancer Advance Stage
+
+Our Given Data
+*************
+Raw: orginal images
+AC:Aceto White images
+Iod:Iodine Images
+
+HSIL: High grade Squamous intrapithelial lesion
+LSil:Low Grade Squamous Intrapithelial Lesion
+
+
+CIN 1:cervical intraepithelial neoplasia (CIN)
+A neoplasm is a type of abnormal and excessive growth, called neoplasia, 
+of tissue. The growth of a neoplasm is uncoordinated with that of the normal surrounding tissue, 
+and persists in growing abnormally, even if the original
+trigger is removed. This abnormal growth usually forms a mass, when it may be called a tumor.
+
+neoplasia:abnormal and excessive growth
+
+Meaning of Intraepithelial in Telugu
+కణజాల అసాధారణ
+
+About hsil and Lsil
+**********************
+Cervical changes. The cervix is the lower, narrow 
+end of the uterus that forms a canal between the uterus 
+and vagina. Before cancer cells form in tissues of the cervix,
+the cells of the cervix go through abnormal changes called dysplasia.
+There are different types of dysplasia.
+Mild dysplasia, called low-grade intraepithelial lesion (LSIL) is one type. Moderate or severe dysplasia, 
+called high-grade intraepithelial lesion (HSIL) is another type of dysplasia. 
+LSIL and HSIL may or may not become cancer.
+
+
+About T1,T2,T3
+*****************
+The T category can be assigned a letter or a number:
+
+TX means there’s no information about the primary tumor, or it can’t be measured.
+T0 means there is no evidence of a primary tumor (it cannot be found).
+Tis means that the cancer cells are only growing in the layer of cells where they started, without growing into deeper layers. This may also be called in situ cancer or pre-cancer.
+A number after the T (such as T1, T2, T3, or T4) might describe the tumor size and/or amount of spread into nearby structures. The higher the T number, the larger the tumor and/or the more it has grown into nearby tissues.

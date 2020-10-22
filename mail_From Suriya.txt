@@ -1,0 +1,46 @@
+Please read the following definitions. Our goal should be to identify a ROI that we achieved some success so far.
+
+As step 1, please read about the following definitions and understand how they are
+
+identified.
+
+ 
+
+Please read the following definitions. Please do some research and explain your understanding on our next meeting.
+
+HSIL 
+is an acronym for high grade squamous intraepithelial lesion, and LSIL means low grade squamous intraepithelial lesion. A lesion is an area of abnormal tissue, and high grade versus low grade refers to the likelihood that it will progress to cancer. HSIL may also be referred to as anal dysplasia.
+
+ 
+
+CIN 1
+CIN 2
+CIN 3
+Severely abnormal cells are found on the surface of the cervix. CIN 3 is usually caused by certain types of human papillomavirus (HPV) and is found when a cervical biopsy is done. CIN 3 is not cancer, but may become cancer and spread to nearby normal tissue if not treated. Treatment for CIN 3 may include cryotherapy, laser therapy, loop electrosurgical procedure (LEEP), or cone biopsy to remove or destroy the abnormal tissue. CIN 3 is sometimes called high-grade or severe dysplasia. Also called cervical squamous intraepithelial neoplasia 3.
+
+ 
+The Cervista HPV HR   test is an in vitro diagnostic test for the qualitative detection of DNA from 14 high-risk Human Papillomavirus (HPV) types (16, 18, 31, 33, 35, 39, 45, 51, 52, 56, 58, 59, 66, and 68) in cervical specimens. The Cervista HPV HR test cannot determine the specific HPV type present.
+
+Step 11: We should also be able to associate the ROI with a parameter which is part of the image definition.
+
+ 
+
+For example if you see HSIL which means high grade squamous intraepithelial lesion.
+The expectation is to identify the ROI as  HSIL within the image. Actual clinical identification
+ can be done by a professional, we should be able to identify a region on an image and identify it as HSIL - ROI.
+ This should help the system to be able to identify a similar ROI in a raw image.
+ 
+
+Also the idea for the system to create its own algorithm to identify from the multiple images we are supplying.
+Likewise, we should establish ROI and link it to CN1 -2 -3.(Biopsy result)
+ 
+
+ 
+
+Columnar junction -T1,T2, T3
+ 
+
+Also, we need to consider parameters at the image level -
+Aceto white and Iodine brown - High / Low
+HPV HR
+HPV lesions - Not sure of this will be by image or identified by ROI
